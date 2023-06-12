@@ -19,14 +19,14 @@
 ### Задание 1. Установка MicroK8S
 
 1. Установить MicroK8S на локальную машину или на удалённую виртуальную машину.
+
 ![image](https://github.com/askarpoff/kuber_ex1/assets/108946489/e77c715b-5e43-4175-b6e2-6e02ad270fb8)
 
 2. Установить dashboard.
 ```bash
 microk8s enable dashboard
 ```
-
- ![image](https://github.com/askarpoff/kuber_ex1/assets/108946489/3ec0ea3e-9088-4e63-9569-40d11730a081)
+![image](https://github.com/askarpoff/kuber_ex1/assets/108946489/3ec0ea3e-9088-4e63-9569-40d11730a081)
 
 3. Сгенерировать сертификат для подключения к внешнему ip-адресу.
 
