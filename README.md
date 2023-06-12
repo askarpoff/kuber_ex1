@@ -38,7 +38,14 @@ microk8s enable dashboard
 1. Установить на локальную машину kubectl.
 
 ![image](https://github.com/askarpoff/kuber_ex1/assets/108946489/2d43350e-94c5-4e75-aafd-19776d9616c9)
+
 2. Настроить локально подключение к кластеру.
+
+![image](https://github.com/askarpoff/kuber_ex1/assets/108946489/64496b47-70ff-42bc-9cc1-4cd522e908b3)
 
 
 3. Подключиться к дашборду с помощью port-forward.
+
+![image](https://github.com/askarpoff/kuber_ex1/assets/108946489/d66d396e-ed20-49ce-8be0-a5d346229414)
+
+![image](https://github.com/askarpoff/kuber_ex1/assets/108946489/d2b9c8d4-077a-4b38-926c-01c0a996c28f)
