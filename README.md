@@ -25,7 +25,8 @@
 ```bash
 microk8s enable dashboard
 ```
-![image](https://github.com/askarpoff/kuber_ex1/assets/108946489/3ec0ea3e-9088-4e63-9569-40d11730a081)
+
+ ![image](https://github.com/askarpoff/kuber_ex1/assets/108946489/3ec0ea3e-9088-4e63-9569-40d11730a081)
 
 3. Сгенерировать сертификат для подключения к внешнему ip-адресу.
 
